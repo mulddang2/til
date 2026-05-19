@@ -16,6 +16,7 @@
 - [async / await](js/async-await.md)
 - [이벤트 루프 (Event Loop)](js/event-loop.md)
 
-## Browser / Web (1)
+## Browser / Web (2)
 
 - [이벤트 버블링 / 캡처링 (Event Bubbling / Capturing)](browser/event-bubbling.md)
+- [fetch와 axios](browser/fetch-axios.md)
