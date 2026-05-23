@@ -23,6 +23,7 @@
 - [localStorage / sessionStorage / cookie 비교](browser/storage-compare.md)
 - [CORS (Cross-Origin Resource Sharing)](browser/cors.md)
 
-## React (1)
+## React (2)
 
 - [props vs state](react/props-vs-state.md)
+- [리렌더링 발생 조건](react/rerender-conditions.md)
