@@ -23,9 +23,10 @@
 - [localStorage / sessionStorage / cookie 비교](browser/storage-compare.md)
 - [CORS (Cross-Origin Resource Sharing)](browser/cors.md)
 
-## React (4)
+## React (5)
 
 - [props vs state](react/props-vs-state.md)
 - [리렌더링 발생 조건](react/rerender-conditions.md)
 - [key prop](react/key-prop.md)
 - [useState 함수형 업데이트 (Functional Update)](react/use-state-functional.md)
+- [useEffect 의존성 배열 (Dependency Array)](react/use-effect-deps.md)
