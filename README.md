@@ -32,3 +32,7 @@
 - [useEffect 의존성 배열 (Dependency Array)](react/use-effect-deps.md)
 - [Controlled vs Uncontrolled 컴포넌트](react/controlled-vs-uncontrolled.md)
 - [조건부 렌더링 패턴 (Conditional Rendering)](react/conditional-rendering.md)
+
+## Concept (1)
+
+- [렌더링 전략 (CSR / SSR / SSG / ISR)](concept/rendering-strategies.md)
