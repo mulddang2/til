@@ -23,7 +23,7 @@
 - [localStorage / sessionStorage / cookie 비교](browser/storage-compare.md)
 - [CORS (Cross-Origin Resource Sharing)](browser/cors.md)
 
-## React (7)
+## React (8)
 
 - [props vs state](react/props-vs-state.md)
 - [리렌더링 발생 조건](react/rerender-conditions.md)
@@ -32,6 +32,7 @@
 - [useEffect 의존성 배열 (Dependency Array)](react/use-effect-deps.md)
 - [Controlled vs Uncontrolled 컴포넌트](react/controlled-vs-uncontrolled.md)
 - [조건부 렌더링 패턴 (Conditional Rendering)](react/conditional-rendering.md)
+- [React Server Components (RSC)](react/server-components.md)
 
 ## Concept (1)
 
