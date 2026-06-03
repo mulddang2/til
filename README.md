@@ -46,3 +46,7 @@
 ## Tools (1)
 
 - [TanStack Query 기초](tools/tanstack-query.md)
+
+## TypeScript (1)
+
+- [interface vs type](ts/interface-vs-type.md)
