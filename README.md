@@ -47,7 +47,8 @@
 
 - [TanStack Query 기초](tools/tanstack-query.md)
 
-## TypeScript (2)
+## TypeScript (3)
 
 - [interface vs type](ts/interface-vs-type.md)
 - [제네릭 기초 (Generics)](ts/generics-basics.md)
+- [제네릭 제약 (Generic Constraints)](ts/generics-constraints.md)
