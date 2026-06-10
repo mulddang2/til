@@ -47,10 +47,11 @@
 
 - [TanStack Query 기초](tools/tanstack-query.md)
 
-## TypeScript (5)
+## TypeScript (6)
 
 - [interface vs type](ts/interface-vs-type.md)
 - [제네릭 기초 (Generics)](ts/generics-basics.md)
 - [제네릭 제약 (Generic Constraints)](ts/generics-constraints.md)
 - [유틸리티 타입 ① Partial / Required / Readonly](ts/utility-partial-required-readonly.md)
 - [유틸리티 타입 ② Pick / Omit](ts/utility-pick-omit.md)
+- [유틸리티 타입 ③ Record / Exclude / Extract](ts/utility-record-exclude-extract.md)
