@@ -47,7 +47,7 @@
 
 - [TanStack Query 기초](tools/tanstack-query.md)
 
-## TypeScript (7)
+## TypeScript (8)
 
 - [interface vs type](ts/interface-vs-type.md)
 - [제네릭 기초 (Generics)](ts/generics-basics.md)
@@ -56,3 +56,4 @@
 - [유틸리티 타입 ② Pick / Omit](ts/utility-pick-omit.md)
 - [유틸리티 타입 ③ Record / Exclude / Extract](ts/utility-record-exclude-extract.md)
 - [타입 가드 (typeof / instanceof / in)](ts/type-guards.md)
+- [사용자 정의 타입 가드 (x is T)](ts/user-defined-type-guards.md)
