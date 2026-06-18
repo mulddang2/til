@@ -47,7 +47,7 @@
 
 - [TanStack Query 기초](tools/tanstack-query.md)
 
-## TypeScript (9)
+## TypeScript (10)
 
 - [interface vs type](ts/interface-vs-type.md)
 - [제네릭 기초 (Generics)](ts/generics-basics.md)
@@ -58,3 +58,4 @@
 - [타입 가드 (typeof / instanceof / in)](ts/type-guards.md)
 - [사용자 정의 타입 가드 (x is T)](ts/user-defined-type-guards.md)
 - [판별 유니온 (Discriminated Union)](ts/discriminated-union.md)
+- [유니온 vs 인터섹션 타입 (Union vs Intersection)](ts/union-vs-intersection.md)
