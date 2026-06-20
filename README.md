@@ -47,7 +47,7 @@
 
 - [TanStack Query 기초](tools/tanstack-query.md)
 
-## TypeScript (11)
+## TypeScript (12)
 
 - [interface vs type](ts/interface-vs-type.md)
 - [제네릭 기초 (Generics)](ts/generics-basics.md)
@@ -60,3 +60,4 @@
 - [판별 유니온 (Discriminated Union)](ts/discriminated-union.md)
 - [유니온 vs 인터섹션 타입 (Union vs Intersection)](ts/union-vs-intersection.md)
 - [리터럴 타입 & as const (Literal Types & as const)](ts/literal-types-as-const.md)
+- [enum vs as const 객체 (Enum vs as const)](ts/enum-vs-as-const.md)
