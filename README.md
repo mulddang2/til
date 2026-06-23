@@ -47,7 +47,7 @@
 
 - [TanStack Query 기초](tools/tanstack-query.md)
 
-## TypeScript (13)
+## TypeScript (14)
 
 - [interface vs type](ts/interface-vs-type.md)
 - [제네릭 기초 (Generics)](ts/generics-basics.md)
@@ -62,3 +62,4 @@
 - [리터럴 타입 & as const (Literal Types & as const)](ts/literal-types-as-const.md)
 - [enum vs as const 객체 (Enum vs as const)](ts/enum-vs-as-const.md)
 - [unknown vs any vs never](ts/unknown-any-never.md)
+- [타입 단언 as & non-null assertion !](ts/type-assertion.md)
