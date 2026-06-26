@@ -47,7 +47,7 @@
 
 - [TanStack Query 기초](tools/tanstack-query.md)
 
-## TypeScript (16)
+## TypeScript (17)
 
 - [interface vs type](ts/interface-vs-type.md)
 - [제네릭 기초 (Generics)](ts/generics-basics.md)
@@ -65,3 +65,4 @@
 - [타입 단언 as & non-null assertion !](ts/type-assertion.md)
 - [keyof & 인덱스 접근 타입 (Indexed Access)](ts/keyof-indexed-access.md)
 - [매핑된 타입 (Mapped Types)](ts/mapped-types.md)
+- [조건부 타입 (Conditional Types)](ts/conditional-types.md)
