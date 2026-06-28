@@ -47,7 +47,7 @@
 
 - [TanStack Query 기초](tools/tanstack-query.md)
 
-## TypeScript (18)
+## TypeScript (19)
 
 - [interface vs type](ts/interface-vs-type.md)
 - [제네릭 기초 (Generics)](ts/generics-basics.md)
@@ -67,3 +67,4 @@
 - [매핑된 타입 (Mapped Types)](ts/mapped-types.md)
 - [조건부 타입 (Conditional Types)](ts/conditional-types.md)
 - [infer 키워드 (infer)](ts/infer-keyword.md)
+- [템플릿 리터럴 타입 (Template Literal Types)](ts/template-literal-types.md)
