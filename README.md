@@ -1,4 +1,4 @@
-> 🔔 TypeScript 심화 로드맵 21개 중 20개 완료. 내일 마지막 노트 후 routine을 disable하거나 새 로드맵으로 갱신하세요: https://claude.ai/code/routines/trig_01XHrYcCV9cyTSgTU7ohWSRc
+> ✅ TypeScript 심화 로드맵 21개 모두 완료. routine을 disable하거나 새 주제로 갱신하세요: https://claude.ai/code/routines/trig_01XHrYcCV9cyTSgTU7ohWSRc
 
 # Today I Learned
 
