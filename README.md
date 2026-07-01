@@ -49,7 +49,7 @@
 
 - [TanStack Query 기초](tools/tanstack-query.md)
 
-## TypeScript (21)
+## TypeScript (22)
 
 - [interface vs type](ts/interface-vs-type.md)
 - [제네릭 기초 (Generics)](ts/generics-basics.md)
@@ -72,3 +72,4 @@
 - [템플릿 리터럴 타입 (Template Literal Types)](ts/template-literal-types.md)
 - [함수 오버로드 (Function Overloads)](ts/function-overloads.md)
 - [React + TS 제네릭 컴포넌트 (Generic Components)](ts/generic-react-components.md)
+- [tsconfig strict 옵션 정리 (strict)](ts/tsconfig-strict.md)
